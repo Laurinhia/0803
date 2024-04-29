@@ -1,12 +1,23 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
-.emerson{
-    background-color: #B31312;
-    display: flex;
-    justify-content: space-evenly;
+.emerson {
+  background-color: #B31312;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 40px;
 }
-.titulo{
-    font-family: "Jockey One", sans-serif;
+
+.titulo {
+  font-family: "Jockey One", sans-serif;
   font-weight: 400;
   font-style: normal;
+  color: #FFFFFF;
+  font-size: 96px;
+}
+.imagemcabecalhopinterest
+{
+  width: 190px;
+}
+.finalidade
+{
+  background-image: linear-gradient(#EFBBBB,#FDFDFD);
 }
